@@ -93,20 +93,18 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NoumanSaeed03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NoumanSaeed03&show_icons=true&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=NoumanSaeed03&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=NoumanSaeed03&theme=tokyonight)
 
 ---
 
 # 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanSaeed03&theme=tokyonight&hide_border=false&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanSaeed03&layout=compact&theme=tokyonight)
 ---
 
 # 📈 Contribution Graph
