@@ -133,13 +133,9 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> Enable the GitHub Action from **Platane/snk** and replace the image below once generated.
-
-```md
-![](https://raw.githubusercontent.com/NoumanSaeed03/NoumanSaeed03/output/github-contribution-grid-snake.svg)
-```
+![Snake animation](https://raw.githubusercontent.com/NoumanSaeed03/NoumanSaeed03/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
