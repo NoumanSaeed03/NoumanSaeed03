@@ -12,28 +12,26 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 </p>
 
 ---
+## About Me
 
-# 💫 About Me
+I am a software engineer focused on developing reliable, scalable, and maintainable software solutions. My experience spans full-stack web development, backend systems, and machine learning applications using modern technologies.
 
-- 🔭 Building **Full-Stack Web Applications**
-- 🤖 Developing **AI & Machine Learning Solutions**
-- ⚙️ Designing **REST APIs & Backend Systems**
-- 🌱 Currently exploring **Deep Learning, Cloud Computing, and System Design**
-- 💬 Ask me about **ASP.NET Core, React, Python, Machine Learning, SQL Server**
-- 📫 Reach me at **snouman469@gmail.com**
-- ⚡ I enjoy building software that solves real-world problems.
+I enjoy solving complex engineering problems, writing clean and efficient code, and continuously improving my technical skills through hands-on projects and collaboration.
 
----
+**Specializations**
+- Full-Stack Web Development
+- Backend Development
+- REST API Design
+- Machine Learning
+- Software Architecture
+- 
+
 
 # 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/noumansaeed03" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://rns-systems.vercel.app/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:snouman469@gmail.com">
