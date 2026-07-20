@@ -99,24 +99,21 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NoumanSaeed03&theme=tokyonight)
-
 ---
 
 # 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanSaeed03&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoumanSaeed03&layout=compact&theme=tokyonight)
 ---
 
 # 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoumanSaeed03&theme=tokyo-night)](https://github.com/NoumanSaeed03)
-
 ---
 
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NoumanSaeed03&theme=tokyonight&no-frame=false&margin-w=5)
-
 ---
 
 # 🚀 Featured Projects
@@ -137,11 +134,6 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 ---
 
-# 💭 Quote
-
-> *"Great software isn't just written—it's engineered."*
-
----
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!
