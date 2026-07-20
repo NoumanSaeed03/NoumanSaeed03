@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouman Saeed</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI & Machine Learning Engineer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Engineer</h3>
 
 <p align="center">
 Building scalable web applications, backend systems, and AI-powered solutions.
