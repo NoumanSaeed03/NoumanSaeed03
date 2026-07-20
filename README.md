@@ -114,13 +114,23 @@ I enjoy solving complex engineering problems, writing clean and efficient code, 
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 Employee Attrition Prediction | Machine Learning classification project using Scikit-learn |
-| 🏦 Banking Application | Full-stack banking application built with Next.js, TypeScript & Appwrite |
-| 📋 Lost & Found Management System | ASP.NET Core + SQL Server application |
-| 💰 AI Financial Planner | AI-powered budgeting and expense tracking platform |
-| 🔐 JWT Authentication API | Secure authentication using ASP.NET Core Identity & JWT |
+### 🔍 Lost & Found Management System
+A web-based application for reporting, searching, and recovering lost items efficiently. Features role-based authentication, item management, status tracking, and a SQL Server database designed for users, items, and reports.
+
+---
+
+### 💬 Real-Time Chat Application
+An Android chat application built with Firebase, providing real-time messaging, secure authentication, push notifications, multimedia sharing, and a responsive user experience.
+
+---
+
+### 🏦 Smart Banking & Finance Management
+A full-stack banking and finance platform featuring secure authentication, transaction tracking, fund transfers, and a modern responsive dashboard for financial management.
+
+---
+
+### 🏥 Hospital Management System
+A PHP & MySQL-based hospital management system designed to streamline patient registration, doctor management, appointment scheduling, billing, and medical record management.
 
 ---
 
