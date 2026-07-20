@@ -12,7 +12,7 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 </p>
 
 ---
-## About Me
+## 👨‍💻 About Me
 
 I am a software engineer focused on developing reliable, scalable, and maintainable software solutions. My experience spans full-stack web development, backend systems, and machine learning applications using modern technologies.
 
@@ -24,8 +24,6 @@ I enjoy solving complex engineering problems, writing clean and efficient code, 
 - REST API Design
 - Machine Learning
 - Software Architecture
-- 
-
 
 # 🌐 Connect With Me
 
